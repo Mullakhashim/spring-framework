@@ -19,7 +19,7 @@ public class AnotherController {
         list.add(new Mentor("Mike","Smith",45, GENDER.MALE));
         list.add(new Mentor("Tom","Hanks",65, GENDER.MALE));
         list.add(new Mentor("Ammy","Bryan",25, GENDER.FEMALE));
-        list.add(new Mentor("Simai","Simai",39, GENDER.MALE));
+        list.add(new Mentor("Simai","Hashim",26, GENDER.MALE));
 
         model.addAttribute("mentors",list);
 
